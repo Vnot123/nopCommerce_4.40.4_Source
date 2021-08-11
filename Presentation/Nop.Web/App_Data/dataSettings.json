@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Host=localhost;Database=Testing;Username=postgres;Password=123456;Include Error Detail=true",
+  "DataProvider": "postgresql",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
